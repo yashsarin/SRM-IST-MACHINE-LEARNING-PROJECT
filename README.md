@@ -28,6 +28,8 @@ Data Collection: Gathered comprehensive historical stock data for Yes Bank.
 Feature Engineering: Engineered relevant features to enhance model performance.
 Model Training: Utilized advanced machine learning models for accurate predictions.
 Evaluation: Rigorous evaluation to ensure the model's effectiveness and reliability.
+
+
 🚀 Next Steps:
 
 Continuously refine and update the model with real-time data for improved accuracy.
