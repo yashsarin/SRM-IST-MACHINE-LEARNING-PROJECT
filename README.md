@@ -20,6 +20,8 @@ Leveraged machine learning for precise and informed predictions.
 
 Achieved commendable accuracy in predicting Yes Bank stock closing prices.
 Validated the model's performance through comprehensive testing and validation procedures.
+
+
 🛠️ Methodology:
 
 Data Collection: Gathered comprehensive historical stock data for Yes Bank.
