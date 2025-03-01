@@ -3,30 +3,24 @@
 
 # Yes Bank Stock Closing Prices Prediction using advanced Machine Learning techniques!! 🚀🚀
 
-🧾Problem Statement: Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+roblem Statement: Analyzed the impact of the Rana Kapoor fraud case on Yes Bank's stock, predicting monthly closing prices using historical data.
 
-📈 Key Highlights:
+🔹 Approach:
 
-Dataset: Analyzed historical stock data to understand trends and patterns.
-Features: Explored various factors influencing stock prices, including market trends, trading volumes, and economic indicators.
-Models: Implemented state-of-the-art machine learning models for accurate predictions.
-Evaluation: Rigorous testing and evaluation to ensure the reliability and robustness of the models.
-💡Insights Gained:
+Data Analysis: Explored stock trends, market patterns, and economic indicators.
+Power BI Visualization: Created interactive dashboards for insights.
+ML Models: Trained predictive models for accurate forecasting.
+Evaluation: Ensured model reliability through rigorous testing.
+💡 Key Insights:
 
-Uncovered meaningful insights into the factors driving Yes Bank stock prices.
-Explored the dynamic relationship between market conditions and stock performance.
-Leveraged machine learning for precise and informed predictions.
-📊 Results:
+Identified key drivers influencing stock price fluctuations.
+Discovered patterns linking market trends to stock performance.
+Leveraged AI for precise and informed stock predictions.
+🚀 Next Steps:
 
-Achieved commendable accuracy in predicting Yes Bank stock closing prices.
-Validated the model's performance through comprehensive testing and validation procedures.
-
-
-🛠️ Methodology:
-
-Data Collection: Gathered comprehensive historical stock data for Yes Bank.
-Feature Engineering: Engineered relevant features to enhance model performance.
-Model Training: Utilized advanced machine learning models for accurate predictions.
+Enhance the model with real-time data for better accuracy.
+Integrate more features for deeper financial insights.
+Expand to forecast broader market trends for strategic decision-making.s.
 Evaluation: Rigorous evaluation to ensure the model's effectiveness and reliability.
 
 
